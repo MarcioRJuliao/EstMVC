@@ -9,41 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EstMVC
 build_property.RootNamespace = EstMVC
-build_property.ProjectDir = D:\marcio marcelo\Marcio\EstMVC\
+build_property.ProjectDir = F:\Geral\ETEC\2DS\DS\teste\EstMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\marcio marcelo\Marcio\EstMVC
+build_property.MSBuildProjectDirectory = F:\Geral\ETEC\2DS\DS\teste\EstMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/Home/Index.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/Home/Privacy.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/Itens/Index.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Itens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Itens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Itens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Itens/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/Shared/Error.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/_ViewImports.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/_ViewStart.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/marcio marcelo/Marcio/EstMVC/Views/Shared/_Layout.cshtml]
+[F:/Geral/ETEC/2DS/DS/teste/EstMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zwg4z5uoq3

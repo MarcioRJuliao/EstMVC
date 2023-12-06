@@ -67,3 +67,39 @@ D:\marcio marcelo\Marcio\EstMVC\obj\Debug\net7.0\refint\EstMVC.dll
 D:\marcio marcelo\Marcio\EstMVC\obj\Debug\net7.0\EstMVC.pdb
 D:\marcio marcelo\Marcio\EstMVC\obj\Debug\net7.0\EstMVC.genruntimeconfig.cache
 D:\marcio marcelo\Marcio\EstMVC\obj\Debug\net7.0\ref\EstMVC.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\appsettings.Development.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\appsettings.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\EstMVC.staticwebassets.runtime.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\EstMVC.exe
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\EstMVC.deps.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\EstMVC.runtimeconfig.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\EstMVC.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\EstMVC.pdb
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.csproj.AssemblyReference.cache
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.AssemblyInfoInputs.cache
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.AssemblyInfo.cs
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.csproj.CoreCompileInputs.cache
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.MvcApplicationPartsAssemblyInfo.cache
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.RazorAssemblyInfo.cache
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.RazorAssemblyInfo.cs
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\staticwebassets\msbuild.EstMVC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.EstMVC.props
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EstMVC.props
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EstMVC.props
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\staticwebassets.build.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\staticwebassets.development.json
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\scopedcss\bundle\EstMVC.styles.css
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\scopedcss\projectbundle\EstMVC.bundle.scp.css
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.csproj.CopyComplete
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\refint\EstMVC.dll
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.pdb
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\EstMVC.genruntimeconfig.cache
+F:\Geral\ETEC\2DS\DS\teste\EstMVC\obj\Debug\net7.0\ref\EstMVC.dll
