@@ -15,7 +15,7 @@ namespace EstMVC.Controllers
 {
     public class ItensController : Controller
     {
-        public string uriBase = "http://estoquehas.somee.com/EstApi/Itens";
+        public string uriBase = "http://EstoqueHAS.somee.com/EstAPI/Itens/";
 
         [HttpGet]
         public async Task<ActionResult> IndexAsync()

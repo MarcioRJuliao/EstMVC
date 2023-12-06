@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tNS+BwZOamDUFedAGUfbqz9gjWFkjE0lrt+Z83r4CdswHXVJKAxUEalo7IhlBc2RqqM9WlQ2Vfyz3MyiLg01pw==",
+  "dgSpecHash": "kg0yqy3tyR4anmW4TwuQMONxoXWnCskqxrPHy9+6w8YKFBvs2AbJRg1CUiZGRKiZ8rzCT0Lp7coOa6fzCRi3GA==",
   "success": true,
-  "projectFilePath": "F:\\Geral\\ETEC\\2DS\\DS\\EstMVC\\EstMVC.csproj",
+  "projectFilePath": "D:\\marcio marcelo\\Marcio\\EstMVC\\EstMVC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\marci\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.14\\microsoft.aspnetcore.jsonpatch.7.0.14.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.14\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.14.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
